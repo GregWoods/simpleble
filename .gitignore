@@ -1,4 +1,5 @@
 .vscode
+.vs
 *.binlog
 .DS_Store
 _build
@@ -15,3 +16,4 @@ __pycache__
 wheelhouse
 
 target
+/examples/simpleble/out

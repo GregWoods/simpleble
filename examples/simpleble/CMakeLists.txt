@@ -59,3 +59,6 @@ configure_simpleble_target(simpleble_notify)
 
 add_executable(simpleble_notify_multi src/notify_multi.cpp src/utils.cpp)
 configure_simpleble_target(simpleble_notify_multi)
+
+add_executable(simpleble_simionic src/simionic.cpp src/utils.cpp)
+configure_simpleble_target(simpleble_simionic)
